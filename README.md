@@ -7,4 +7,4 @@ Text was manually cleaned while scraping, removing introductions, contact detail
 # Usage
 You can use this dataset for various applications, such as assessing privacy policy compliance, benchmarking privacy practices across industries, and developing automated tools for monitoring adherence to data protection regulations. By providing a comprehensive and annotated dataset of privacy policies, the Saudi Privacy Policy Dataset aims to facilitate further research and development in the areas of privacy policy analysis, natural language processing, and machine learning applications related to privacy and data protection.
 # License
-This dataset is released under the MIT License.
+This dataset is released under the [MIT License](https://opensource.org/license/mit/).
