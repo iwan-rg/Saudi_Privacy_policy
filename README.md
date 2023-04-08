@@ -9,9 +9,10 @@ You can use this dataset for various applications, such as assessing privacy pol
 # License
 This dataset is released under the [MIT License](https://opensource.org/license/mit/).
 ## Citation
-@article{Al-Khalifa2023,
+``` @article{Al-Khalifa2023,
   title={The Saudi Privacy Policy Dataset},
   author={Hend Al-Khalifa, Malak Mashaabi, Ghadi Al-Yahya, and Raghad Alnashwan},
   journal={arXiv preprint [arXiv:2304.00257](https://arxiv.org/abs/2304.02757)},
   year={2023}
 }
+```
